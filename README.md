@@ -9,4 +9,5 @@ If it does not work and looks ok
       typo
   
   Try
+    Analize the code line by line (take a moment before doing it)
     Get working code and try from there
